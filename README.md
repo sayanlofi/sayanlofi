@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/A5bM6jG.gif" alt="Coding Banner">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding Banner">
 </p>
 
 # Hi 👋, I'm Sayan
