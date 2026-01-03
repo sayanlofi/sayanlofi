@@ -13,20 +13,17 @@
 - 🐾 Fun fact: Introvert, but always curious!
 ---
 ## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayanlofi&theme=tokyonight" />
-</p>
+![Your GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sayanlofi&show_icons=true&theme=tokyonight" />
-</p>
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sayanlofi&layout=compact&theme=tokyonight" />
-</p>
+---
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
+
 
 ---
 
