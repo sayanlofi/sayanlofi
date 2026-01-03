@@ -12,13 +12,14 @@
 - 📫 Reach me: sayanchatterjee.iitjee@gmail.com  
 - 🐾 Fun fact: Introvert, but always curious!
 ---
-## 🔥 GitHub Streak
-![Your GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+### 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sayanlofi&theme=radical)
 
----
+### 📊 GitHub Stats
+![Sayan's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=sayanlofi&show_icons=true&theme=radical)
 
-## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sayanlofi&layout=compact&theme=radical)
+
 
 ---
 
