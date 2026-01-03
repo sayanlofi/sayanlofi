@@ -15,19 +15,17 @@
 ### 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sayanlofi&theme=radical)
 
+---
+
 ### 📊 GitHub Stats
 ![Sayan's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=sayanlofi&show_icons=true&theme=radical)
 
+---
+
+### 💻 My Programming Languages
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sayanlofi&layout=compact&theme=radical)
 
-
 ---
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
-
-
----
-
 
 ## 🎯 My Current Goals
 
