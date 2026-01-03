@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.imgur.com/A5bM6jG.gif" alt="Coding Banner">
+</p>
+
 # Hi 👋, I'm Sayan
 
 ### JEE Aspirant | Learning C++ & DSA | Future Software Engineer 🚀  
@@ -7,12 +11,29 @@
 - 📍 West Bengal, India
 - 📫 Reach me: sayanchatterjee.iitjee@gmail.com  
 - 🐾 Fun fact: Introvert, but always curious!
+---
+## 🔥 GitHub Streak
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayanlofi&theme=react" />
+</p>
+---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayanlofi&layout=compact&theme=react" />
+</p>
 ---
 
 ### 📊 GitHub Stats
 ![Sayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayanlofi&show_icons=true)
+---
+## 🎯 My Current Goals
 
+- Learn Git & GitHub properly  
+- Start competitive programming  
+- Build small projects consistently  
+- Contribute to open-source one day 🚀
 ---
 
 ### 🚀 What I’m working on
@@ -23,3 +44,9 @@
 > *“Small progress every day becomes big success.”*
 
 ⭐ If you like my journey, **follow my profile!**
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayanlofi&theme=react-dark" />
+</p>
