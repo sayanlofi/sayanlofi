@@ -13,15 +13,13 @@
 - 🐾 Fun fact: Introvert, but always curious!
 ---
 ## 🔥 GitHub Streak
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sayanlofi&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=sayanlofi&theme=tokyonight" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sayanlofi&show_icons=true&theme=tokyonight" />
 </p>
@@ -29,11 +27,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayanlofi&layout=compact&theme=tokyonight" />
 </p>
----
-
-### 📊 GitHub Stats
-![Sayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayanlofi&show_icons=true)
----
 ## 🎯 My Current Goals
 
 - Learn Git & GitHub properly  
